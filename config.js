@@ -2,7 +2,8 @@ const CONFIG = {
     introTitle: 'Bae à!',
     introDesc: `Ngày anh gặp em thì 
     anh mới phát hiện ra thiên thần
-    là có thật chứ không phải nó chỉ có trong truyện cổ tích mà bà hay kể,
+    là có thật chứ không phải nó chỉ có trong truyện cổ tích 
+    mà bà hay kể,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',

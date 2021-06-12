@@ -11,7 +11,7 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'thật ra thì em cũng yêu anh từ lâu rồi Anh Tân à :> ',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    mess: 'Anh biết mà 🥰. Anh Cũng Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/100046803243059' //link mess của các bạn. VD: https://m.me/100046803243059

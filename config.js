@@ -1,19 +1,17 @@
+// 1. Chỉnh sửa các dòng chữ theo mục đích của bạn
 const CONFIG = {
-    introTitle: 'Bae à!',
-    introDesc: ` Ngày anh gặp em thì 
-    anh mới phát hiện ra thiên thần
-    là có thật chứ không phải nó chỉ có trong truyện cổ tích 
-    mà bà hay kể,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai Tân à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'thật ra thì em cũng yêu anh từ lâu rồi Anh Tân à :> ',
-    mess: 'Anh biết mà 🥰. Anh Cũng Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me/100046803243059' 9
-}
+    introTitle: '🖐🖐🖐 Hee loo ! 🖐🖐🖐',
+    introDesc: `Anh có điều này muốn hỏi Em, Em nhớ phải trả lời thật lòng nha`,
+    btnIntro: 'OK',
+    title: 'Anh biết Em thích Anh phải không phải không ? 😙',
+    desc: 'Em không trả lời hoặc thoát ra, tức là Em thích Anh đó nha :> ',
+    btnYes: 'Có, em thật sự thích anh 💖💖💖',
+    btnNo: '💔 Anh mơ à ! 💔 ',
+    question:'Nói cho Anh biết đi vì sao Em thích anh 😊😊',
+    reasonPlaceholder: 'Lý do',
+    btnReply: 'Gởi ! 💌💌',
+    reply: 'Tại vì anh đẹp trai đó Ahiiiii 😊😊',
+    mess: 'Anh biết mà, Anh cũng thích em lắm 🥰. Love you 300.000 😘😘',
+    messDesc: '💬💬 Nhắn tin cho Anh nha. 💬💬',
+    btnAccept: 'Ok lun 💖',
+    messLink: 'https://www.facebook.com/messages/t/100046803243059'
